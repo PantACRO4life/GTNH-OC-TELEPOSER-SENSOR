@@ -4,7 +4,7 @@ local event = require("event")
 local os = require("os")
 
 --=== Configuration ===--
-local freq = 555          -- Wireless redstone frequency
+local freq =           -- Wireless redstone frequency
 local SensorSense = 7     -- Sensitivity level of the Motion Sensor In Blocks
 local OnOff = 0.5         -- Redstone ON time in seconds
 --======================--
