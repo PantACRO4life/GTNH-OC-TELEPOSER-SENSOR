@@ -5,7 +5,7 @@ local os = require("os")
 
 --=== Configuration ===--
 local freq =           -- Wireless redstone frequency
-local SensorSense = 7     -- Sensitivity level of the Motion Sensor In Blocks
+local SensorSense = 5     -- Sensitivity level of the Motion Sensor In Blocks
 local OnOff = 0.5         -- Redstone ON time in seconds
 --======================--
 
